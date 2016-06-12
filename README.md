@@ -1,2 +1,2 @@
 # TPO-website
-This is to collaborate over the work of camplinked.in
+this is to collaborate over the work of camplinked.in
